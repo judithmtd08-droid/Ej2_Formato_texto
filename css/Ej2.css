@@ -1,0 +1,29 @@
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1490750967868-88aa4486c946");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Verdana, sans-serif;
+    min-height: 100vh;
+}
+
+h4 {
+    color: coral;
+    text-align: center;
+}
+
+.boton {
+    display: inline-block;
+    background-color: gold;
+    padding: 15px;
+    color: white;
+}
+
+.capitulo {
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 15px;
+    margin-top: 400px;
+}
